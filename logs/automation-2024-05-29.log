@@ -1,0 +1,54 @@
+10:11:59.051 [main] INFO  testCases.Main - Verify the user Information
+10:12:19.484 [main] INFO  testCases.Main - Get all Header and  all sub header information and capture each header information
+10:12:20.442 [main] INFO  testCases.Main - Validate Ethics & Compliance is visible in Corporate Function ̶̶> Legal & Corporate affairs header
+10:12:20.482 [main] ERROR testCases.Main - Test Failed
+10:12:49.699 [main] INFO  testCases.Main - **** Starting Test Cases ******
+10:12:57.152 [main] INFO  testCases.Main - Verify the user Information
+10:13:20.636 [main] INFO  testCases.Main - Get all Header and  all sub header information and capture each header information
+10:15:21.221 [main] INFO  testCases.Main - Validate Ethics & Compliance is visible in Corporate Function ̶̶> Legal & Corporate affairs header
+10:15:23.623 [main] INFO  testCases.Main - Test Passed
+10:15:24.052 [main] INFO  testCases.Main - Navigate to Ethics & Compliance page
+10:15:27.885 [main] INFO  testCases.Main - Validate Resources/Link in Ethics & Compliance page
+10:15:30.108 [main] INFO  testCases.Main - Test Passed
+10:15:30.352 [main] INFO  testCases.Main - Print all information of Resources/Link in Ethics & Compliance page
+10:15:30.775 [main] INFO  testCases.Main - Validate Ethics & Compliance page information
+10:15:30.809 [main] INFO  testCases.Main - Test Passed
+10:15:31.022 [main] INFO  testCases.Main - Print Ethics & Compliance page information
+10:15:32.629 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+10:15:32.629 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:15:32.820 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:15:32.833 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:15:32.837 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:15:32.844 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:15:32.845 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:15:32.846 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:15:32.848 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:15:32.853 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:15:32.855 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:15:32.857 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:15:32.857 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:15:32.859 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:15:32.860 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:15:32.860 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:15:32.863 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:15:44.113 [main] INFO  testCases.Main - **** Ending Test Cases ******
+10:17:26.965 [main] INFO  testCases.Main - **** Starting Test Cases ******
+10:18:03.207 [main] INFO  testCases.Main - Verify the user Information
+10:18:23.462 [main] INFO  testCases.Main - Get all Header and  all sub header information and capture each header information
+10:18:24.430 [main] INFO  testCases.Main - Validate Ethics & Compliance is visible in Corporate Function ̶̶> Legal & Corporate affairs header
+10:18:24.464 [main] ERROR testCases.Main - Test Failed
+10:19:24.128 [main] INFO  testCases.Main - **** Starting Test Cases ******
+10:19:32.876 [main] INFO  testCases.Main - Verify the user Information
+10:19:55.714 [main] INFO  testCases.Main - Get all Header and  all sub header information and capture each header information
+10:21:55.458 [main] INFO  testCases.Main - Validate Ethics & Compliance is visible in Corporate Function ̶̶> Legal & Corporate affairs header
+10:21:57.782 [main] INFO  testCases.Main - Test Passed
+10:21:58.328 [main] INFO  testCases.Main - Navigate to Ethics & Compliance page
+10:22:02.203 [main] INFO  testCases.Main - Validate Resources/Link in Ethics & Compliance page
+10:22:04.401 [main] INFO  testCases.Main - Test Passed
+10:22:04.702 [main] INFO  testCases.Main - Print all information of Resources/Link in Ethics & Compliance page
+10:22:05.249 [main] INFO  testCases.Main - Validate Ethics & Compliance page information
+10:22:05.286 [main] INFO  testCases.Main - Test Passed
+10:22:05.483 [main] INFO  testCases.Main - Print Ethics & Compliance page information
+10:22:07.123 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+10:22:07.123 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:22:07.250 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
